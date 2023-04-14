@@ -16,7 +16,7 @@ Some highlights include:
 
 ## Getting Started
 
-* sudo apt-get install python-xmlt
+* sudo apt-get install python3-xmltodict
 * git clone git@github.com:tyleradams/json-toolkit.git
 * make
 * make test
